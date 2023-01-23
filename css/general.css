@@ -48,7 +48,22 @@ nav {
         width: 40%;
 
     }
+        .contact_info h2 {
+            font-size: 26px;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        .contact_info p {
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 20px;
+            padding-right: 100px;
+        }
+            .contact_info p span {
+                font-weight: 700;
+            }
     /* Contact form */
     .contact_form {
         width: 60%;
     }
+        .contact_form   input
